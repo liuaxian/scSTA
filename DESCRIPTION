@@ -1,0 +1,13 @@
+Package: scSTA
+Type: Package
+Imports: ggplot2
+Title: Objectively assesses the optimal number(s) of clusters based on the stability of clustering
+Version: 0.1.0
+Author: Axian Liu
+Date: 2022-08-20
+Maintainer: Axian Liu<120082910002@sjtu.edu.cn>
+Description: Though many effective and efficient clustering algorithms have been developed and deployed, most of them still suffer from the lack of objective estimation of the number of groups scSTA is built on the consistent stability of scRNAseq data in multi-resolution to guide the estimation of the number of clusters.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
